@@ -1,0 +1,9 @@
+Todo:
+
+Permutationgenerator
+OverlappingArea
+
+Binary tree, linked list, hash tables
+merge sort
+
+make Algorithms, Data Structures, random folder
