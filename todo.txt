@@ -4,6 +4,7 @@ Permutationgenerator
 OverlappingArea
 
 Binary tree, linked list, hash tables
+traverse a bin tree to find if an element on a node 
 merge sort
 
 make Algorithms, Data Structures, random folder
